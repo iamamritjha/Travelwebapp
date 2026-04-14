@@ -1,0 +1,8 @@
+# Standard Java/Eclipse .gitignore
+/build/
+.settings/
+.classpath
+.project
+bin/
+*.class
+.DS_Store

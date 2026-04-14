@@ -1,0 +1,19 @@
+<aside class="sw-sidebar" aria-label="Main navigation">
+  <div class="sw-sidebar-brand">
+    <span class="sw-logo" aria-hidden="true"></span>
+    <span>SkyWay</span>
+  </div>
+  <nav class="sw-sidebar-nav">
+    <a class="sw-sb-link" href="booking?action=dashboard">Dashboard</a>
+    <a class="sw-sb-link" href="booking?action=explore">Explore hub</a>
+    <a class="sw-sb-link" href="booking?action=flight">Flights</a>
+    <a class="sw-sb-link" href="booking?action=hotel">Hotels</a>
+    <a class="sw-sb-link" href="booking?action=package">Packages</a>
+    <a class="sw-sb-link" href="booking?action=stayNearby">Stay nearby</a>
+    <a class="sw-sb-link" href="booking?action=places">Curated places</a>
+    <a class="sw-sb-link" href="booking?action=mybookings">My bookings</a>
+  </nav>
+  <div class="sw-sidebar-footer">
+    <a class="sw-sb-link sw-sb-link--muted" href="auth?action=logout">Sign out</a>
+  </div>
+</aside>
